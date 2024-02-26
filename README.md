@@ -1,0 +1,2 @@
+这是一个学习rust语言搭建的web服务 尚未完成webassembly的补充 仅学习参考用
+actix框架 psql数据库
