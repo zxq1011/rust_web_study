@@ -1,7 +1,6 @@
 use actix_web::{error, http::StatusCode, HttpResponse, Result};
 use serde::Serialize;
 use std::fmt;
-use actix_web::body::MessageBody;
 
 // NotFound 没有使用上 但为了编译不出现waring 使用允许死代码
 #[allow(dead_code)]
